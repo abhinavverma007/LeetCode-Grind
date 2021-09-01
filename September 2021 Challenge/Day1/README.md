@@ -16,3 +16,4 @@ nums[0] = 5, nums[1] = 4, nums[2] = 0, nums[3] = 3, nums[4] = 1, nums[5] = 6, nu
 One of the longest sets s[k]:
 s[0] = {nums[0], nums[5], nums[6], nums[2]} = {5, 6, 2, 0}
 
+[Link to Question](https://leetcode.com/problems/array-nesting/)
